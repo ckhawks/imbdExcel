@@ -1,4 +1,4 @@
-# imbdExcel
+# imdbExcel
 Using movie titles loaded from a spreadsheet, populate genre and director fields
 
 Currently this is setup such that column A is the movie titles, B is the Director and C is the genre.
